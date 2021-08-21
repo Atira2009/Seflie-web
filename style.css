@@ -17,3 +17,20 @@
 {
     width: 300px;
 }
+
+body{
+    background-color:rgb(238, 213, 255);
+}
+
+h1{
+    font-family: cursive;
+}
+
+h4, h3{
+    font-family: cursive;
+}
+
+#butn{
+    background-color: rgb(132, 78, 241);
+    color:rgb(238, 213, 255);
+}
